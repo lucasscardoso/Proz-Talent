@@ -1,0 +1,35 @@
+   body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        header, footer {
+            background: #333;
+            color: #fff;
+            text-align: center;
+            padding: 16px 0;
+        }
+        .container {
+            padding: 20px;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 0 auto;
+        }
+        .content {
+            margin-bottom: 20px;
+        }
+  
+
+
+
+
+header .menu a{
+  color: #fff;
+  margin: 0 10px;
+  text-decoration: none;
+}
