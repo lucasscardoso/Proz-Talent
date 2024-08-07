@@ -34,7 +34,7 @@ header .menu a{
   text-decoration: none;
 }
 
-section{
+ .content1{
     display: flex;
     justify-content:space-around ;
     align-items: center;
